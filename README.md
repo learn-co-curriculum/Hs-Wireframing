@@ -12,7 +12,7 @@ A wireframe is a blueprint for a website. It is a skeletal map for what a websit
 
 ###How do I do that?
 
-We're going to use [Gliffy](www.gliffy.com), a free service that allows you to build out wireframes and flowcharts and a million and one other things.
+We're going to use [Gliffy](www.gliffy.com), a free service that allows you to build out wireframes and flowcharts and a million and one other things. You are also more than welcome to use a whiteboard for a little more low touch way to wireframe. You'll just want to make sure to photograph your whiteboard so you don't lose your ideas.
 
 ***REMINDER*** In your project guidelines, we have outlined certain 'must-haves' for your project. You'll want to incorporate those into your designs.
 
