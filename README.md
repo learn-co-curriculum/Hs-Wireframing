@@ -1,9 +1,4 @@
----
-tags: idealogy, wireframing, kids
-languages: wireframing
-type: idealogy
-level: 1 
----
+
 
 ##Let's Wireframe!
 
