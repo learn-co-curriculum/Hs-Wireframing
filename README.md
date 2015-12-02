@@ -22,3 +22,4 @@ We're going to use [Gliffy](http://www.gliffy.com), a free service that allows y
 **4.** What about a header and footer? What do they look like?
 
 **5.** Actually create the wireframes on Gliffy.
+<a href='https://learn.co/lessons/hs-wireframing' data-visibility='hidden'>View this lesson on Learn.co</a>
